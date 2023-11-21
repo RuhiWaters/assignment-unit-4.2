@@ -1,0 +1,43 @@
+body, h1, p, h2, h3, img {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+
+header {
+    background-color: #154517;
+    padding: 20px;
+    color: #fff;
+}
+
+
+.info {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+
+.info h2 {
+    background-color: #416781;
+    color: #e2cfcf;
+    padding: 10px;
+}
+
+
+.info img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+
+.info h3 {
+    background-color: #56ab7a;
+    color: darkslategrey;
+    padding: 10px;
+    margin-top: 10px;
+}
